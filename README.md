@@ -1,4 +1,6 @@
-# SynapseQL– The Ultimate AI-Powered Federated Query Builder
+# SynapseQL
+
+The Ultimate AI-Powered Federated Query Builder
 
 ## Overview
 
