@@ -4,7 +4,7 @@ The Ultimate AI-Powered Federated Query Builder
 
 ## Overview
 
-This server provides a flexible API for querying data across multiple PostgreSQL databases. It supports:
+This server provides a flexible API for querying data across multiple PostgreSQL databases.. It supports:
 
 - Standard queries with filtering, sorting and pagination
 - Relation-based queries with automatic joins
@@ -19,7 +19,7 @@ The server uses a schema definition file (`schema.json`) to validate all queries
 
 The server automatically:
 
-- Creates connection pools for all databases defined in schema.json
+- Creates connection pools for all databases defined in schema.json.
 - Tests connections at startup
 - Maintains connection pooling settings (timeout, max connections)
 - Handles graceful shutdown of database connections
