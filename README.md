@@ -1,6 +1,4 @@
-# Database Server API Documentation
-
-This documentation covers all available endpoints and query options for the database server.
+# SynapseQL– The Ultimate AI-Powered Federated Query Builder
 
 ## Overview
 
@@ -11,6 +9,7 @@ This server provides a flexible API for querying data across multiple PostgreSQL
 - Cross-database joins
 - Health monitoring
 - Raw SQL execution (for admin use)
+- Fallback in case on instance goes down
 
 The server uses a schema definition file (`schema.json`) to validate all queries against the defined database structure.
 
